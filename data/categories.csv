@@ -1,0 +1,17 @@
+Category,Subcategory,Item,Price,Availability
+meat,poultry,chicken,5,20
+meat,poultry,turkey,7,15
+meat,red meat,beef,8,10
+meat,red meat,lamb,10,8
+fish,freshwater,salmon,15,5
+fish,freshwater,trout,12,10
+fish,saltwater,cod,6,20
+fish,saltwater,tuna,9,15
+vegetables,leafy,lettuce,2,50
+vegetables,leafy,spinach,3,30
+vegetables,root,carrot,1.5,40
+vegetables,root,potato,2,35
+others,dairy,milk,1,25
+others,dairy,cheese,5,10
+others,baked goods,bread,2,20
+others,baked goods,pastries,3,15
