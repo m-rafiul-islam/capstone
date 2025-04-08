@@ -14,6 +14,7 @@ Note: Markdown syntax is clean and easy, but you can't customize the size or sty
 
 <h2>html syntax</h2> 
 The following is the basic html system for attaching an image. 
+
 ```markdown 
 <img src="https://github.com/m-rafiul-islam/capstone/blob/main/images/samusasingara.jpeg"> 
 ```
@@ -33,8 +34,8 @@ You can also use percentage values to make the image's size relative to its pare
 <img src="https://github.com/m-rafiul-islam/capstone/blob/main/images/samusasingara.jpeg" alt="Samusa image" width="50%" height="Auto">   
 
 
-## Take a screenshoot and paste directy 
-You can take a screenshoot and paste into a markdown file directly. It will automatically generate necesary code. 
+## Drag and drop an image or screenshot directly into the editor 
+You can take a screenshot and paste it directly into a Markdown file while editing on GitHub. GitHub will automatically upload the image and generate the necessary HTML code for you. Similar works for drag and drop option. 
 ```markdown
 <img width="362" alt="image" src="https://github.com/user-attachments/assets/ff296e98-3afb-489d-b205-4610120a84ae" />
 ```
@@ -42,7 +43,7 @@ You can take a screenshoot and paste into a markdown file directly. It will auto
 
 
 ## Markdown vs. Html 
-<img width="467" alt="image" src="https://github.com/user-attachments/assets/2cd219e2-10ec-4cc7-b46d-b236a0f754bb" />
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/2cd219e2-10ec-4cc7-b46d-b236a0f754bb" />
 
 
 
