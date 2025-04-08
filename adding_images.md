@@ -6,10 +6,14 @@ You can display images in GitHub markdown files in two primary ways:
 ## Markdown Syntax
 ![alt text](https://github.com/m-rafiul-islam/capstone/blob/main/images/samusasingara.jpeg) 
 
+```markdown
+![alt text](https://github.com/m-rafiul-islam/capstone/blob/main/images/samusasingara.jpeg) 
+```
+Note: Markdown syntax is clean and easy, but you can't customize the size or style of the image directly.
 
 
 <h2>html syntax</h2> 
-<img src="https://github.com/m-rafiul-islam/capstone/blob/main/images/samusasingara.jpeg">
+<img src="https://github.com/m-rafiul-islam/capstone/blob/main/images/samusasingara.jpeg"> 
 You can specify the width and height of an image in pixels. This gives you precise control over the image's dimensions.
 <img src="https://github.com/m-rafiul-islam/capstone/blob/main/images/samusasingara.jpeg" alt="My Image" width="300" height="200"> 
 Alt text is a crucial element for making web content more accessible and understandable.
